@@ -1,0 +1,22 @@
+#Fri Dec 08 11:54:40 CST 2017
+renamed.6=classes5.dex
+renamed.5=classes2.dex
+renamed.4=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes6.dex
+renamed.1=classes3.dex
+renamed.0=classes7.dex
+base.6=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d2cfba4b1c31cebcaef506d2deb30740a2dc3f20
+base.5=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1c5fae896bbdc9b80f8aef25daedb7241a23790f
+base.4=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_00fa2058fc699d4329215e26413c06ec182ea83a
+base.3=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c7400e35d4d4bd4f010c668baa76ccd77b18f80d
+base.2=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f4faeb5ccb30f1feefd1c8d89712db7813e34ca0
+base.1=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1fa6030167736da89b47e7f4d0aee4bae0c0cd81
+base.0=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_00a790885d947ca2d9e16dabd8a0d435e9287d14
+file.6=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d2cfba4b1c31cebcaef506d2deb30740a2dc3f20\\classes.dex
+file.5=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1c5fae896bbdc9b80f8aef25daedb7241a23790f\\classes.dex
+file.4=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_00fa2058fc699d4329215e26413c06ec182ea83a\\classes.dex
+file.3=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c7400e35d4d4bd4f010c668baa76ccd77b18f80d\\classes.dex
+file.2=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f4faeb5ccb30f1feefd1c8d89712db7813e34ca0\\classes.dex
+file.1=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1fa6030167736da89b47e7f4d0aee4bae0c0cd81\\classes.dex
+file.0=E\:\\ASWorkspace\\Demo_FragmentTabhost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_00a790885d947ca2d9e16dabd8a0d435e9287d14\\classes.dex

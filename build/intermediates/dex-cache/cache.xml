@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\KT-stc09\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1251f71a81e6b0ded4fb417d0523f954cb9f2ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KT-stc09\.android\build-cache\29a5a430cb5d0648d81a13048bb9810e2409ba52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\build\intermediates\pre-dexed\debug\classes_42336ecad2321a7d5839f5831c560d0e232dffa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KT-stc09\.android\build-cache\cba65da9cc7463ff5b08d19f45de135e20596635\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\build\intermediates\pre-dexed\debug\classes_1e522ccd231880abbc9bcfdff32cd4b588d15be3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KT-stc09\.android\build-cache\5ab66dcbe4a2e36881579b97b1d37be8cfc80ce8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\build\intermediates\pre-dexed\debug\classes_e55fdec5b5b40f81d29432832b9b8b7d18337670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KT-stc09\.android\build-cache\c5845165a14251c42671465e7637a645c3737acf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\build\intermediates\pre-dexed\debug\classes_eae981708aba0202293756ac7032bf38ddb637d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KT-stc09\.android\build-cache\457089d599ba4e1d5c0f30206e471aafa1732199\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\build\intermediates\pre-dexed\debug\classes_1d22529b59067dd71c571f3bdb3e2cf5fcdc8cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KT-stc09\.android\build-cache\dc7c26a4b71c3c94f70da3f6ffe527935480ff11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\build\intermediates\pre-dexed\debug\classes_6217ae40c91bb8047ce3e407703ca01f045dbb51.jar" />
+    </item>
+
+</items>

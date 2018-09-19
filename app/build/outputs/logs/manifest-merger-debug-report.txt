@@ -1,0 +1,78 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\KT-stc09\.android\build-cache\29a5a430cb5d0648d81a13048bb9810e2409ba52\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\KT-stc09\.android\build-cache\457089d599ba4e1d5c0f30206e471aafa1732199\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\KT-stc09\.android\build-cache\cba65da9cc7463ff5b08d19f45de135e20596635\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\KT-stc09\.android\build-cache\c5845165a14251c42671465e7637a645c3737acf\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\KT-stc09\.android\build-cache\dc7c26a4b71c3c94f70da3f6ffe527935480ff11\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\KT-stc09\.android\build-cache\5ab66dcbe4a2e36881579b97b1d37be8cfc80ce8\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\KT-stc09\.android\build-cache\29a5a430cb5d0648d81a13048bb9810e2409ba52\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\KT-stc09\.android\build-cache\29a5a430cb5d0648d81a13048bb9810e2409ba52\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\KT-stc09\.android\build-cache\457089d599ba4e1d5c0f30206e471aafa1732199\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\KT-stc09\.android\build-cache\cba65da9cc7463ff5b08d19f45de135e20596635\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\KT-stc09\.android\build-cache\c5845165a14251c42671465e7637a645c3737acf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\KT-stc09\.android\build-cache\dc7c26a4b71c3c94f70da3f6ffe527935480ff11\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\KT-stc09\.android\build-cache\5ab66dcbe4a2e36881579b97b1d37be8cfc80ce8\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.demo_lxl.MainActivity
+ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\KT-stc09\Desktop\Demo_FragmentTabhost\app\src\main\AndroidManifest.xml:22:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\KT-stc09\.android\build-cache\29a5a430cb5d0648d81a13048bb9810e2409ba52\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\KT-stc09\.android\build-cache\457089d599ba4e1d5c0f30206e471aafa1732199\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\KT-stc09\.android\build-cache\cba65da9cc7463ff5b08d19f45de135e20596635\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\KT-stc09\.android\build-cache\c5845165a14251c42671465e7637a645c3737acf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\KT-stc09\.android\build-cache\dc7c26a4b71c3c94f70da3f6ffe527935480ff11\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\KT-stc09\.android\build-cache\5ab66dcbe4a2e36881579b97b1d37be8cfc80ce8\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\KT-stc09\.android\build-cache\29a5a430cb5d0648d81a13048bb9810e2409ba52\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\KT-stc09\.android\build-cache\29a5a430cb5d0648d81a13048bb9810e2409ba52\output\AndroidManifest.xml:26:9-47
